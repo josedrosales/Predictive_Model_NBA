@@ -56,7 +56,7 @@ Para ejecutar la aplicación se debe ejecutar el siguiente comando:
 ```bash
 streamlit run src/app.py
 ```
-De igual forma puede usar el siguiente enlace: https://proyectonba.onrender.com
+De igual forma puede usar el siguiente enlace: https://predictive-model-nba.onrender.com
 
 ## Autores
 [José Rosales](https://github.com/josedrosales)<br>
