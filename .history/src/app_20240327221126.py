@@ -1,0 +1,16 @@
+import streamlit as st
+#import diccionarios
+from pickle import load
+
+#cargo el modelo optimizado
+#model = load(open(r"models\random_forest_rs_42_nest_250_msamps_4_msampl_7_mxft_sqrt_mxdpth_15.sav", "rb"))
+
+#cargo los diccionarios
+# players_dict = diccionarios.players_dict
+# team_abbre_dict = diccionarios.team_abbre_dict
+# team_name_dict = diccionarios.team_name_dict
+
+st.title('Prediccion de puntos para un jugador')
+player = st.selectbox('Jugador',['1','2','3','4','5','6','7','8','9'])
+
+
