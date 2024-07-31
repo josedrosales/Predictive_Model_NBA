@@ -30,7 +30,7 @@ Realizamos algunas consultas sobre la DB para corroborar que todo estuviese corr
 
 Se crearon nuevas columnas a partir de las ya existentes, mediante una función la cual calcula el promedio de los 5 partidos anteriores para una estadística especificada.<br>
 No fue necesario hacer ningún tratamiento a los valores nulos ya que no se encontró ninguno.<br>
-Se obvservaron las relaciones lineales importantes y las irrelevantes, a partir de las mismas se eliminaron variables que consideramos irrelevantes para nuestro caso.<br>
+Se observaron las relaciones lineales importantes y las irrelevantes, a partir de las mismas se eliminaron variables que consideramos irrelevantes para nuestro caso.<br>
 Todo esto se puede ver en el archivo `src/Preprocesamiento.ipynb`
 <br>
 <br>
